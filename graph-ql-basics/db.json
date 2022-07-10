@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fname": "Ted",
+      "lname": "Bundy",
+      "age": "40",
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "fname": "Jeffrey",
+      "lname": "Dahmer",
+      "age": "25",
+      "companyId": "2"
+    },
+    {
+      "id": "3",
+      "fname": "Jack",
+      "lname": "Ripper",
+      "age": "32",
+      "companyId": "2"
+    },
+    {
+      "fname": "Json",
+      "lname": "Moors",
+      "age": 23,
+      "id": "Zn7aH4O",
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "phone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
